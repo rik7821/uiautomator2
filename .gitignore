@@ -99,3 +99,12 @@ ENV/
 
 # mypy
 .mypy_cache/
+AUTHORS
+ChangeLog
+
+.vscode/
+report/
+*.apk
+*.exe
+node_modules/
+vendor/
